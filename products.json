@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "classvr-4pack",
+    "brand": "ClassVR",
+    "sku": "CVR-SET-4",
+    "name": "ClassVR Headset Set (4) + Charging Case",
+    "desc": "4x student headsets with storage/charging case and teacher controls. Ideal starter for VR lessons.",
+    "image": "/logos/classvr.svg",
+    "category": "VR",
+    "action": "Request Info"
+  },
+  {
+    "slug": "classvr-8pack",
+    "brand": "ClassVR",
+    "sku": "CVR-SET-8",
+    "name": "ClassVR Headset Set (8) + Charging Case",
+    "desc": "8x student headsets for medium classrooms; includes charging/storage case and management portal.",
+    "image": "/logos/classvr.svg",
+    "category": "VR",
+    "action": "Request Info"
+  },
+  {
+    "slug": "classvr-portal-1y",
+    "brand": "ClassVR",
+    "sku": "CVR-PORTAL-12M",
+    "name": "ClassVR Teacher Portal License (12 months)",
+    "desc": "Annual license for content library and classroom management tools.",
+    "image": "/logos/classvr.svg",
+    "category": "VR",
+    "action": "Request Info"
+  },
+  {
+    "slug": "makeblock-mbot2-edu",
+    "brand": "Makeblock",
+    "sku": "MBOT2-EDU",
+    "name": "Makeblock mBot2 Education Kit",
+    "desc": "Programmable STEAM robot powered by CyberPi; suitable for beginner-to-intermediate coding.",
+    "image": "/logos/makeblock.svg",
+    "category": "Robotics",
+    "action": "Request Info"
+  },
+  {
+    "slug": "makeblock-mbot2-classroom-10",
+    "brand": "Makeblock",
+    "sku": "MBOT2-CLASS-10",
+    "name": "mBot2 Classroom Pack (10 units)",
+    "desc": "Ten mBot2 sets with accessories for class deployment; teacher guide included.",
+    "image": "/logos/makeblock.svg",
+    "category": "Robotics",
+    "action": "Request Info"
+  },
+  {
+    "slug": "makeblock-laserbox-pro",
+    "brand": "Makeblock",
+    "sku": "LASERBOX-PRO",
+    "name": "Makeblock Laserbox (Pro)",
+    "desc": "Desktop laser cutter/engraver for school makerspaces. Safe enclosure and easy-to-use software.",
+    "image": "/logos/makeblock.svg",
+    "category": "Maker / Fabrication",
+    "action": "Request Info"
+  },
+  {
+    "slug": "makeblock-ultimate-20",
+    "brand": "Makeblock",
+    "sku": "ULTIMATE-2.0",
+    "name": "Makeblock Ultimate 2.0 Robot Kit",
+    "desc": "Flagship robotics kit with aluminum mechanical parts; multiple build forms and sensors.",
+    "image": "/logos/makeblock.svg",
+    "category": "Robotics",
+    "action": "Request Info"
+  },
+  {
+    "slug": "twin-science-coding-kit",
+    "brand": "Twin Science",
+    "sku": "TWIN-CODE",
+    "name": "Twin Science Coding Kit",
+    "desc": "Hands-on coding projects with easy magnetic modules and guided activities.",
+    "image": "/logos/twin-science.svg",
+    "category": "STEM Kits",
+    "action": "Request Info"
+  },
+  {
+    "slug": "twin-science-energy-kit",
+    "brand": "Twin Science",
+    "sku": "TWIN-ENERGY",
+    "name": "Twin Science Energy Kit",
+    "desc": "Explore sustainable energy concepts through practical experiments and lessons.",
+    "image": "/logos/twin-science.svg",
+    "category": "STEM Kits",
+    "action": "Request Info"
+  },
+  {
+    "slug": "twin-science-aviation-kit",
+    "brand": "Twin Science",
+    "sku": "TWIN-AVIATION",
+    "name": "Twin Science Aviation Kit",
+    "desc": "Build and test aviation-themed projects to learn flight principles and design.",
+    "image": "/logos/twin-science.svg",
+    "category": "STEM Kits",
+    "action": "Request Info"
+  },
+  {
+    "slug": "elecfreaks-microbit-tinker",
+    "brand": "Elecfreaks",
+    "sku": "EF-MBIT-TINKER",
+    "name": "ELECFREAKS micro:bit Tinker Kit",
+    "desc": "All-in-one kit with sensors and modules to start micro:bit projects quickly.",
+    "image": "/logos/elecfreaks.svg",
+    "category": "Robotics / micro:bit",
+    "action": "Request Info"
+  },
+  {
+    "slug": "elecfreaks-microbit-classroom-10",
+    "brand": "Elecfreaks",
+    "sku": "EF-MBIT-CLASS-10",
+    "name": "micro:bit Classroom Pack (10 sets)",
+    "desc": "Ten starter sets with expansion boards and accessories for a full class.",
+    "image": "/logos/elecfreaks.svg",
+    "category": "Robotics / micro:bit",
+    "action": "Request Info"
+  },
+  {
+    "slug": "elecfreaks-cutebot-classroom-8",
+    "brand": "Elecfreaks",
+    "sku": "EF-CUTEBOT-CLASS-8",
+    "name": "Cutebot Classroom Pack (8 robots)",
+    "desc": "Fun micro:bit car robots with line-following, distance sensors and more.",
+    "image": "/logos/elecfreaks.svg",
+    "category": "Robotics / micro:bit",
+    "action": "Request Info"
+  },
+  {
+    "slug": "edutech-cpt-suite",
+    "brand": "Edutech CPT",
+    "sku": "CPT-SUITE",
+    "name": "CPT Assessment Suite",
+    "desc": "Competency profiling and reporting for K\u201312 institutions.",
+    "image": "/logos/edutech-cpt.svg",
+    "category": "Assessment",
+    "action": "Request Info"
+  },
+  {
+    "slug": "acebott-edu-robot-kit",
+    "brand": "Acebott",
+    "sku": "ACE-ROBOT-EDU",
+    "name": "Acebott Educational Robot Kit",
+    "desc": "Programmable robot set for classroom learning and competitions.",
+    "image": "/logos/acebott.svg",
+    "category": "Robotics",
+    "action": "Request Info"
+  }
+]

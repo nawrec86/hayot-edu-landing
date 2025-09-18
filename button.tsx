@@ -1,0 +1,1 @@
+export function Button({children,variant='primary',size='md',className='',type='button'}:any){const sizeCls=size==='lg'?'px-5 py-3':size==='sm'?'px-3 py-1.5':'px-4 py-2';const v=variant==='outline'?'btn-outline':'btn-primary';return <button type={type} className={`btn ${v} ${sizeCls} ${className}`}>{children}</button>}
