@@ -1,0 +1,1 @@
+export default function NotFound(){return <div className='container py-24'><h1 className='text-3xl font-bold'>Page not found</h1><p className='mt-2 text-gray-600'>Please check the URL or go back to the homepage.</p></div>}

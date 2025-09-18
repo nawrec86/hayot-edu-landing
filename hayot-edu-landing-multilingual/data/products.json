@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "classvr-starter-kit",
+    "brand": "ClassVR",
+    "name": "ClassVR Starter Kit (4 Headsets)",
+    "desc": "Turnkey classroom VR set with storage and teacher portal access.",
+    "image": "/logos/classvr.svg",
+    "category": "VR",
+    "action": "Request Info"
+  },
+  {
+    "slug": "makeblock-mbot2",
+    "brand": "Makeblock",
+    "name": "Makeblock mBot2 + CyberPi",
+    "desc": "STEAM robot kit for coding, robotics and AI exploration.",
+    "image": "/logos/makeblock.svg",
+    "category": "Robotics",
+    "action": "Request Info"
+  },
+  {
+    "slug": "twin-science-lab",
+    "brand": "Twin Science",
+    "name": "Twin Science Interdisciplinary Lab",
+    "desc": "Hands-on STEM lab with cross-curricular kits and lesson plans.",
+    "image": "/logos/twin-science.svg",
+    "category": "STEM Kits",
+    "action": "Request Info"
+  },
+  {
+    "slug": "elecfreaks-microbit-classroom",
+    "brand": "Elecfreaks",
+    "name": "micro:bit Classroom Pack",
+    "desc": "Robotics & maker set designed for classroom group activities.",
+    "image": "/logos/elecfreaks.svg",
+    "category": "Robotics",
+    "action": "Request Info"
+  },
+  {
+    "slug": "edutech-cpt-suite",
+    "brand": "Edutech CPT",
+    "name": "CPT Assessment Suite",
+    "desc": "Competency profiling and reporting for K\u201312 institutions.",
+    "image": "/logos/edutech-cpt.svg",
+    "category": "Assessment",
+    "action": "Request Info"
+  }
+]
